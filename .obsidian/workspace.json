@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "0bbae8cc762650c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "65fdb724a6c03245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e6bca476f98053c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "parallels/torran earth/countries/europe/images/baltic republic.png"
+              },
+              "icon": "lucide-image",
+              "title": "baltic republic"
+            }
+          },
+          {
+            "id": "07ddceb967bb1443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parallels/torran earth/countries/transcontinental/Japanese Empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Japanese Empire"
+            }
+          },
+          {
+            "id": "33e0dfacfe935a1e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "parallels/torran earth/countries/transcontinental/images/british empire.svg"
+              },
+              "icon": "lucide-image",
+              "title": "british empire"
+            }
+          },
+          {
+            "id": "a5350408aca9451b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "catalog and bestiary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "catalog and bestiary"
+            }
+          },
+          {
+            "id": "3c138ae44d874b00",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "parallels/torran earth/countries/north america/images/union - united states of america, america -- thin.png"
+              },
+              "icon": "lucide-image",
+              "title": "union - united states of america, america -- thin"
+            }
+          },
+          {
+            "id": "e735e553b71432ea",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "parallels/torran earth/countries/north america/images/canada.svg"
+              },
+              "icon": "lucide-image",
+              "title": "canada"
+            }
+          },
+          {
+            "id": "739e8580759d957c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "parallels/torran earth/countries/south america/images/argentina.svg"
+              },
+              "icon": "lucide-image",
+              "title": "argentina"
+            }
+          },
+          {
+            "id": "69f98e3ffddf7e4f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "earth/surface/images/Pasted image 20250708035038.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250708035038"
+            }
+          },
+          {
+            "id": "d94a05e6676ab26a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a36a983b9c1771f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parallels/torran earth/countries/north america/Republic of Texas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Republic of Texas"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98b6872c1a1e161b",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f7539f940c73ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8340d1b8963422e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c60b7764e3177338",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "661a7fed785d97bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2032d63792a0f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2901ae6b7cb5f778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e34e5ee2374e42a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f5e5aa6b280b53a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "216f4b54844f2027",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dbd2353adf38c38a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "be1a13caf61cee14",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a5350408aca9451b",
+  "lastOpenFiles": [
+    "home.md",
+    "catalog and bestiary.md",
+    "images/Pasted image 20250710201853.png",
+    "images/Pasted image 20250710201908.png",
+    "images/Pasted image 20250710201856.png",
+    "images",
+    "images/Pasted image 20250710173119.png",
+    "EARTH LORE/earth.md",
+    "EARTH LORE/earth/surface/australia.md",
+    "EARTH LORE/earth/surface/the surface.md",
+    "EARTH LORE/earth/surface/antarctica.md",
+    "EARTH LORE/moon/moon.md",
+    "EARTH LORE/earth/cavity/the cavity.md",
+    "concepts/reality fractal.md",
+    "concepts/Untitled.md",
+    "concepts/godspace.md",
+    "concepts/access points.md",
+    "concepts/camera.md",
+    "concepts/replication.md",
+    "concepts/conversion.md",
+    "concepts/renders.md",
+    "concepts/dimensions.md",
+    "concepts/witnesses.md",
+    "concepts/security.md",
+    "concepts/render rooms.md",
+    "concepts/images/Pasted image 20250709185137.png",
+    "concepts/images",
+    "concepts/images/Pasted image 20250709185147.png",
+    "wait write that down.md",
+    "concepts/concepts.md",
+    "Pasted image 20250709184738.png",
+    "concepts",
+    "MURPLE DIMENSION LORE",
+    "EARTH LORE/earth/earth.png.0.pdnSave",
+    "earth.pdn.0.pdnSave",
+    "EARTH LORE/earth/cavity/the nests.md",
+    "EARTH LORE/parallels/torran earth/countries/europe/Scandinavia.md",
+    "EARTH LORE",
+    "EARTH LORE/parallels/torran earth/countries/antarctica/Antarctica.md",
+    "EARTH LORE/parallels/torran earth/countries/africa/images/egypt.svg",
+    "EARTH LORE/parallels/torran earth/countries/africa/images/liberia.svg",
+    "EARTH LORE/parallels/torran earth/countries/africa/images/ethiopia.svg",
+    "EARTH LORE/parallels/torran earth/countries/africa/images",
+    "EARTH LORE/parallels/torran earth/countries/africa",
+    "EARTH LORE/parallels/torran earth/countries/asia/images",
+    "moon/Untitled.canvas",
+    "earth/map.canvas"
+  ]
+}

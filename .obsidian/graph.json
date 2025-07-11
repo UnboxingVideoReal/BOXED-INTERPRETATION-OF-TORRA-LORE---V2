@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#idk",
+      "color": {
+        "a": 1,
+        "rgb": 14783636
+      }
+    },
+    {
+      "query": "tag:#torran-countries",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#geography  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431380
+      }
+    },
+    {
+      "query": "tag:#torran-history",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#ww3",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#future-torran-history",
+      "color": {
+        "a": 1,
+        "rgb": 14727762
+      }
+    },
+    {
+      "query": "tag:#hydran-history",
+      "color": {
+        "a": 1,
+        "rgb": 11752160
+      }
+    },
+    {
+      "query": "tag:#future-hydran-history",
+      "color": {
+        "a": 1,
+        "rgb": 14701254
+      }
+    },
+    {
+      "query": "tag:#concepts",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.316608996539792,
+  "repelStrength": 14.4982698961938,
+  "linkStrength": 1,
+  "linkDistance": 174,
+  "scale": 0.36288736930123755,
+  "close": true
+}
