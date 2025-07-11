@@ -1,6 +1,6 @@
 # WELCOME TO THE LORE OF UNBOXING AND THE WORLD OF BR
-!(https://github.com/UnboxingVideoReal/BOXED-INTERPRETATION-OF-TORRA-LORE---V2/blob/main/images/Pasted%20image%2020250710202954.png)
-![[Pasted image 20250710203143.png]]
+![br](https://github.com/UnboxingVideoReal/BOXED-INTERPRETATION-OF-TORRA-LORE---V2/raw/main/images/Pasted%20image%2020250710202954.png)
+![br](https://raw.githubusercontent.com/UnboxingVideoReal/BOXED-INTERPRETATION-OF-TORRA-LORE---V2/main/images/Pasted%20image%2020250710203143.png)
 [br has given you access. wow!]
 
 WELCOME TO THE WORLD OF [][][][][][]
