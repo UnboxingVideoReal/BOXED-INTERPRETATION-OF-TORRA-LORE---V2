@@ -1,1 +1,0 @@
-guy in the nests who loses his mind and gets a vision of the outside world, sees civilization and how much better it is in the surface and wants to go up there so bad but its not possiblke ever

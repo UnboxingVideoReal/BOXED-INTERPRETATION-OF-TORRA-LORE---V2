@@ -49,12 +49,14 @@
             "id": "a5350408aca9451b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250710202954.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250710202954"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -285,11 +287,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8340d1b8963422e2",
+  "active": "a5350408aca9451b",
   "lastOpenFiles": [
+    "wait write that down.md",
     "README.md",
-    "images/Pasted image 20250710203143.png",
     "images/Pasted image 20250710202954.png",
+    "images/Pasted image 20250710203143.png",
     "[].md",
     "catalog and bestiary.md",
     "home.md",
@@ -319,7 +322,6 @@
     "concepts/images/Pasted image 20250709185137.png",
     "concepts/images",
     "concepts/images/Pasted image 20250709185147.png",
-    "wait write that down.md",
     "concepts/concepts.md",
     "Pasted image 20250709184738.png",
     "concepts",
