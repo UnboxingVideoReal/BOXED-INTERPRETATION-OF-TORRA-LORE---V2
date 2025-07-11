@@ -42,14 +42,14 @@ adamantite (Ad)
 ## orichalcum
 
 # bestiary
-- -- SIMPLE-SAPIENT --
+- ***-- SIMPLE-SAPIENT --***
 1. orras
 2. erras
 3. dulns
 4. orragins
 5. arros
 6. allies
-- -- SAPIENT --
+- ***-- SAPIENT --***
 1. humans
 2. coronian
 3. selenian
@@ -61,16 +61,16 @@ adamantite (Ad)
 9. murplian
 10. nuclean
 11. perennian
-- -- OTHER --
+- ***-- OTHER --***
 1. scug
 2. bendos
-- -- ROTS --
+- ***-- ROTS --***
 1. [[#THE ROT]]
 2. murple
 3. nucleus
 4. asfult
 5. coral
-- -- dimension gods --
+- ***-- dimension gods --***
 1. ACOREA
 
 ## THE ROT
