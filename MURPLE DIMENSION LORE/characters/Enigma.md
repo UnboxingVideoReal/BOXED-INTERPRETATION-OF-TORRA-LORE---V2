@@ -13,7 +13,7 @@ relationships
 ## [[Mire]]
 - best friend, forced to betray to destroy the render
 - found in enigmas home render, was moved to this render via the great aslysmic bridge and is now enigmas partner in crime 
-## Myserios
+## [[Myserios]]
 - “creator”, sent enigma to destroy this render
 - she doesnt like it, but manages to not think about that
 # gallery

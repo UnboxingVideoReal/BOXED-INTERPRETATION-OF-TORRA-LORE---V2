@@ -69,6 +69,20 @@
         "a": 1,
         "rgb": 61183
       }
+    },
+    {
+      "query": "tag:#characters",
+      "color": {
+        "a": 1,
+        "rgb": 7935
+      }
+    },
+    {
+      "query": "tag:#rots",
+      "color": {
+        "a": 1,
+        "rgb": 5258518
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +95,6 @@
   "repelStrength": 14.4982698961938,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.36288736930123755,
-  "close": true
+  "scale": 0.7132754626224976,
+  "close": false
 }

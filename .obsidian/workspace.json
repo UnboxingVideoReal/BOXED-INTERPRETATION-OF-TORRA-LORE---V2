@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MURPLE DIMENSION LORE/characters/Mire.md",
+                "file": "catalog and bestiary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mire"
+              "title": "catalog and bestiary"
             }
           },
           {
@@ -312,25 +312,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8340d1b8963422e2",
+  "active": "d0abab085db2a2f8",
   "lastOpenFiles": [
+    "MYSERIOS SCAPE LORE/THE ROT.md",
+    "catalog and bestiary.md",
+    "README.md",
+    "MYSERIOS SCAPE LORE",
+    "Pasted image 20250710211254.png",
+    "MURPLE DIMENSION LORE/characters/Enigma.md",
+    "MURPLE DIMENSION LORE/characters/Mire.md",
     "MURPLE DIMENSION LORE/characters/images/Pasted image 20250710210801.png",
     "MURPLE DIMENSION LORE/characters/images/enigma duln.png",
     "MURPLE DIMENSION LORE/characters/images/2222222.png",
-    "MURPLE DIMENSION LORE/characters/Mire.md",
-    "MURPLE DIMENSION LORE/characters/Enigma.md",
     "MURPLE DIMENSION LORE/characters/images/tora.png",
     "MURPLE DIMENSION LORE/characters/images/sepedy.png",
     "MURPLE DIMENSION LORE/characters/images/rtin.jpg",
     "MURPLE DIMENSION LORE/characters/images/wawaw.png",
     "MURPLE DIMENSION LORE/characters/images/omg.png",
     "MURPLE DIMENSION LORE/characters/images/newer enigma.png",
-    "MURPLE DIMENSION LORE/characters/images/Pasted image 20250710205933.png",
-    "MURPLE DIMENSION LORE/characters/images/ALERT.png",
     "MURPLE DIMENSION LORE/characters/images",
-    "catalog and bestiary.md",
     "MURPLE DIMENSION LORE/characters",
-    "README.md",
     "EARTH LORE/moon/moon.md",
     "wait write that down.md",
     "[].md",
@@ -359,7 +360,6 @@
     "EARTH LORE/earth/earth.png.0.pdnSave",
     "earth.pdn.0.pdnSave",
     "EARTH LORE",
-    "EARTH LORE/parallels/torran earth/countries/africa/images",
     "moon/Untitled.canvas",
     "earth/map.canvas"
   ]
