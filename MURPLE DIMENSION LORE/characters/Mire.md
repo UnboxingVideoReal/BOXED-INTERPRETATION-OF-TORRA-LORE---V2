@@ -1,8 +1,15 @@
 ![[mire.png]]
-- also a murple thing
-- enigmas best friend 
+- [[murplian]]
+- helps enigma with destroying [[THE INTERCEPT]]
+# relationships
+## [[Enigma]]
+- best friend
+- helps her with destroying  the k ntercpet
+## [[Inferno]]
+- brother
+- hate eachother
 # gallery
-![[Pasted image 20250710205933.png]]![[2222222.png]]![[Pasted image 20250710210801.png]]
+![[Pasted image 20250711164652.png]]![[2222222.png]]![[Pasted image 20250710210801.png]]
 ## FANART WHAT
 ![[ALERT.png]]
 BY DALUYAN

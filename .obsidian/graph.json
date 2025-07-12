@@ -83,6 +83,27 @@
         "a": 1,
         "rgb": 5258518
       }
+    },
+    {
+      "query": "tag:#species  ",
+      "color": {
+        "a": 1,
+        "rgb": 7639355
+      }
+    },
+    {
+      "query": "tag:#dimension  ",
+      "color": {
+        "a": 1,
+        "rgb": 8074913
+      }
+    },
+    {
+      "query": "tag:#render",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +116,6 @@
   "repelStrength": 14.4982698961938,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.7132754626224976,
+  "scale": 0.885498954315061,
   "close": false
 }
