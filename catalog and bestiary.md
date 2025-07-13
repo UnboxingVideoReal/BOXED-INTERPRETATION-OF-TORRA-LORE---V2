@@ -2,8 +2,10 @@ table of contents:
 1. [[#minerals ores and compounds]]
 2. lores
 3. [[#bestiary]]
-4. [[#characters things and places]]
-5. [[#concepts]]
+4. [[#characters and things]]
+5. [[#places]]
+6. [[#countries]]
+7. [[#concepts]]
 
 # minerals ores and compounds
 1. [[#cosmilite*]]
@@ -63,13 +65,15 @@ adamantite (Ad)
 11. perennian
 - ***-- OTHER --***
 1. scug
-2. bendos
+2. bendo (species)
 - ***-- ROTS --***
 1. [[#THE ROT]]
-2. murple
-3. nucleus
-4. asfult
-5. coral
+2. [[Blackened Roots]]
+3. [[Murple Virus]]
+4. [[murple]]
+5. [[nucleus]]
+6. [[asfult]]
+7. [[coral]]
 - ***-- dimension gods --***
 1. ACOREA
 
@@ -81,9 +85,9 @@ adamantite (Ad)
 THE ROT is the source of all wrong in the world of the renders of [[#THE INFIRMARY]] and [[#THE NURSERY]], and the antonym to all life.
 ![[Pasted image 20250710173119.png]]
 it was created by a witness named [[PLANOY]] in THE INFIRMARY and spread to almost every render, and crossed over to THE NURSERY.
-# characters things and places
+# characters and things
 - ***-- CHARACTERS --***
-1. [[br]]
+1. [[BR]]
 2. [[Myserios]]
 3. [[Soiresym]]
 4. [[Enigma]]
@@ -184,8 +188,8 @@ it was created by a witness named [[PLANOY]] in THE INFIRMARY and spread to almo
 97. Adamantite
 - ***-- THINGS --***
 1. 
-- -- PLACES --
-1. [[COURTYARD]]
+# places
+1. [[The Courtyard|COURTYARD]]
 2. [[CHRONOCAELEA]]
 3. [[ENCEPHALOSPATIUM]]
 4. [[ONEIROPSYCHOSPACE]]
@@ -196,7 +200,7 @@ it was created by a witness named [[PLANOY]] in THE INFIRMARY and spread to almo
 			2. [[The Verted]]
 			3. [[The Torus]]
 		2. [[THE ROOTS]]
-			1. [[Blackened Roots]]
+			1. [[Blackened Roots (dimension)]]
 			2. [[Whitened Roots]]
 		3. [[LIFE]]
 			1. [[the garden]]
@@ -213,7 +217,9 @@ it was created by a witness named [[PLANOY]] in THE INFIRMARY and spread to almo
 	2. [[murple dimension]]
 6. [[THE NURSERY]]
 7. []
-
+# countries
+- [[torran earth countries|see torran earth countries]]
+- [[inverted countries|see inverted countries]]
 # concepts
 1. [[access points]]
 2. [[render rooms]]

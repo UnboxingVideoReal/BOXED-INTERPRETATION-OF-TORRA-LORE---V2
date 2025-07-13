@@ -1,4 +1,4 @@
-moon is very hollow. it also got infected (see [[the cavity]]) by the blackened roots virus and developed a giant cavity, so big it leaks to the surface and tjheres basically no surface. there are cracks on the moon that lead to the gigantic caves (and when i say giant i mean GIANT like so big you cant see the end of it)
+moon is very hollow. it also got infected (see [[the cavity]]) by the [[Blackened Roots]] virus and developed a giant cavity, so big it leaks to the surface and tjheres basically no surface. there are cracks on the moon that lead to the gigantic caves (and when i say giant i mean GIANT like so big you cant see the end of it)
 
 also has [[cosmilite*]], LOTS of it
 # caves

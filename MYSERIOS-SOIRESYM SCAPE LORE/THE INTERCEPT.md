@@ -7,7 +7,7 @@ dimensions:
 	- [[The Verted]]
 	- [[The Torus]]
 - [[THE ROOTS]]
-	- [[Blackened Roots]]
+	- [[Blackened Roots (dimension)]]
 	- [[Whitened Roots]]
 - [[LIFE]]
 	- [[the garden]]

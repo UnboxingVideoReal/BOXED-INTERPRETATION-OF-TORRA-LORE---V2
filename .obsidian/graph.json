@@ -104,6 +104,20 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "tag:#GODSPACE",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#gods",
+      "color": {
+        "a": 1,
+        "rgb": 3604735
+      }
     }
   ],
   "collapse-display": false,
@@ -116,6 +130,6 @@
   "repelStrength": 14.4982698961938,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.885498954315061,
+  "scale": 0.05932617187500281,
   "close": false
 }

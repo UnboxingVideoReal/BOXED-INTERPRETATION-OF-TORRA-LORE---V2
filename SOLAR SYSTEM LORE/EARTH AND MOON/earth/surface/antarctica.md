@@ -31,7 +31,7 @@ much more plantlife than irl antarctica obv to support enough growth 
 lots of animals
 
 # Lore
-whys it so weird? whys it so shiny and new and awesome and can support life? its cause of the blackened roots and allat yea
+whys it so weird? whys it so shiny and new and awesome and can support life? its cause of the [[Blackened Roots]] and allat yea
 
 
 #geography
