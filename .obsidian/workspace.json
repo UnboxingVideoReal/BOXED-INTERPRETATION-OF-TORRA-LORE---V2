@@ -87,10 +87,14 @@
             "id": "78167b2c78880130",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SOLAR SYSTEM LORE/MARS/mars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mars"
             }
           },
           {
@@ -324,8 +328,9 @@
   },
   "active": "78167b2c78880130",
   "lastOpenFiles": [
-    "MYSERIOS-SOIRESYM SCAPE LORE/THE ROT.md",
     "INVERTED LORE/INNER EXPANSE/Murple Virus.md",
+    "SOLAR SYSTEM LORE/EARTH AND MOON/parallels/torran earth/countries/asia/Abbasid Caliphate.md",
+    "MYSERIOS-SOIRESYM SCAPE LORE/THE ROT.md",
     "catalog and bestiary.md",
     "MURPLE DIMENSION LORE/murple dimension.md",
     "INVERTED LORE/THE INVERTED.md",
