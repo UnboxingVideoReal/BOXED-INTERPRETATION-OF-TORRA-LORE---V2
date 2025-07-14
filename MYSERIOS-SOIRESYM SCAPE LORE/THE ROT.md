@@ -6,6 +6,20 @@ THE ROT is the source of all wrong in the world of the renders of [[#THE INFIRMA
 ![[Pasted image 20250710173119.png]]
 it was created by a witness named [[PLANOY]] in THE INFIRMARY and spread to almost every render, and crossed over to THE NURSERY.
 
+# rot progression
+- the rot
+	- [[murple]]
+	- [[nucleus]]
+	- [[Blackened Roots]]
+		- [[Whitened Roots]]
+	- [[asfult]]
+		- [[coral]]
+
+# artificial rot
+an artificial rot is a rot made by not a god or witness or natural process or strong lifeform
+list:
+- [[Murple Virus]]
+
 ---
 torra lore rot:
 > ok so the rot is like people were trying to invent new people by having a vessel and putting their emotions into it or smth?
