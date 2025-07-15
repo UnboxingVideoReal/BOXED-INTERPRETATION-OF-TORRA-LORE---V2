@@ -1,0 +1,3 @@
+![[surfacemars.png]]
+
+#geography

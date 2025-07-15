@@ -1,3 +1,9 @@
+![[SOLAR SYSTEM LORE/EARTH AND MOON/earth.png]]
+next planet: [[mars]]
+previous planet: [[venus]]
+
+---
+
 layers:
 - [[the surface]]
 	- [[north america]]
@@ -14,7 +20,7 @@ layers:
 	- [[the nests]]
 	- [[the hives]]
 	- [[the cysts]]
-	- [[the core (earth)]]
+	- [[the core (earth)|the core]]
 	- [[the heart]]
 
 orbiting bodies: [[moon]]
