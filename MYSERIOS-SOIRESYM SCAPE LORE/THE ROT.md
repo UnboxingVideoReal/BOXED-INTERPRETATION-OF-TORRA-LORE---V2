@@ -17,6 +17,7 @@ it was created by a witness named [[PLANOY]] in THE INFIRMARY and spread to almo
 	- [[asfult]]
 		- [[coral]]
 	- [[THE MIRE]]
+	- [[THE ASH]]
 
 # artificial rot
 an artificial rot is a rot made by not a god or witness or natural process or strong lifeform
