@@ -1,5 +1,7 @@
 ![[mars.png]]
-next planet: [[jupiter]]
+*every pixel in the planet is 32.90776699 km*
+
+next planet: [[apollo]]
 previous planet: [[earth]]
 
 ---

@@ -9,14 +9,18 @@ list:
 - [[mars]]
 	- [[phobos]]
 	- [[deimos]]
-- [[asteroid belt]]
+- ***-- [[asteroid belt]] --**
+- [[apollo]]
+- *[[artemis]]*
+- ---
 - [[jupiter]]
 	- [[europa]]
 - [[saturn]]
 	- [[titan]]
 - [[uranus]]
 - [[neptune]]
-- [[pluto]]
+- *[[pluto]]*
+- ***-- [[kuiper belt]] --***
 - [[minerva]]
 
 #geography 
