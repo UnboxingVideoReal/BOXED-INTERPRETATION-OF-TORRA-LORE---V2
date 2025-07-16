@@ -5,19 +5,19 @@
 THE INVERTED is one of the key dimensions of the lore. it originates from torra lore and contains orras and stuff. it is the inverted of [[The Verted]] in [[THE INVERTED DUO]], and has connections to [[The Torus]]
 
 layers:
-- EUCLIDIAN SPACE
+- [[EUCLIDIAN SPACE]]
 	- OUTER EXPANSE
-		- Barren Wastelands of Velocity
-		- THEMIRE
-		- The Inverted Ocean
-			- Aecorius
-			- vicissim
-			- virus
-			- Concavum
-			- Cocytus
-			- Stygialis
-			- The Sea of Xyphos
-			- the trench
+		- [[Barren Wastelands of Velocity]]
+		- [[THEMIRE]]
+		- [[The Inverted Ocean]]
+			- [[Aecorius]]
+			- [[vicissim]]
+			- [[virus]]
+			- [[Concavum]]
+			- [[Cocytus]]
+			- [[Stygialis]]
+			- [[Sea of Xyphos]]
+			- [[the trench]]
 			- INNER EXPANSE
 				- STATIC RING
 				- INVERTED SPACE
@@ -39,6 +39,7 @@ bestiary:
 1. [[THE ROT]]
 2. [[Murple Virus]]
 3. [[Blackened Roots]]
+4. [[THE MIRE]]
 
 people:
 1. Naazaril (East Rosi)

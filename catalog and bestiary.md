@@ -69,11 +69,14 @@ adamantite (Ad)
 - ***-- ROTS --***
 1. [[#THE ROT]]
 2. [[Blackened Roots]]
-3. [[Murple Virus]]
-4. [[murple]]
-5. [[nucleus]]
-6. [[asfult]]
-7. [[coral]]
+3. [[Whitened Roots]]
+4. [[THE MIRE]]
+5. [[Murple Virus]]
+6. [[murple]]
+7. [[nucleus]]
+8. [[asfult]]
+9. [[coral]]
+10. [[THE ASH]]
 - ***-- dimension gods --***
 1. ACOREA
 
