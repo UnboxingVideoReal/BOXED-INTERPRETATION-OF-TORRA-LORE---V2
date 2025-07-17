@@ -1,8 +1,15 @@
 ![[courtyard.png]]
-COURTYARD
+IMAGE OF THE COURTYARD SUPERSTRUCTURE IN THE COURTYARD
 
 COURTYARD IS THE HUB OF THE HIGHEST FORM OF GODS, BEFORE THE ULTIMATE GOD [[BR]].
 they have cameras sometimes to watch over the rest of the world
+
+# A CUYAR - THE COURTYARD SUPERSTRUCTURE
+the cuyar, or the courtyard superstructure, is the largest structure in the courtyard. it is where the courtyardigans live, and where all business goes on.
+
+in the center, there is no ceiling and there are bases for each memnber, structures biomes whatever they want. this is their home. this makes.. a courtyard
+
+the [[blueprint orras]] live in the courtyard and work in the cuyar, 
 # people
 members:
 - [[ace]]
@@ -45,6 +52,8 @@ EXILED:
 - [[nalyd]]
 
 # GALLERY
+![[Pasted image 20250716204354.png]]
+[[The Isles of Aslysmic]] in [[ASLYSMIC]]
 ![[precipice (2).png]]
 winter pfp - The Precipice
 ![[courtyard.png]]

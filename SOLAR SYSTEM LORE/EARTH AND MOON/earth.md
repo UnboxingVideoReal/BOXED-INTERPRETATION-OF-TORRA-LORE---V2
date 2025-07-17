@@ -3,6 +3,7 @@ next planet: [[mars]]
 previous planet: [[venus]]
 
 ---
+infected with [[Blackened Roots#Interstellar Blackened Roots|Interstellar Blackened Roots]]
 
 layers:
 - [[the surface]]
@@ -24,5 +25,9 @@ layers:
 	- [[the heart]]
 
 orbiting bodies: [[moon]]
+
+countries:
+- [[torran earth countries]]
+- [[hydran earth countries]]
 
 #geography

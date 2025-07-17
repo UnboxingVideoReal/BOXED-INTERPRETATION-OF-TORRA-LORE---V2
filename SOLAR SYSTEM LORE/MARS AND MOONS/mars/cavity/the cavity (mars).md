@@ -1,6 +1,6 @@
 ![[cavitymars.png]]
 size overall: 4.85436893% smaller than mars
-same birth as [[the cavity|earth]]'s
+same birth as [[the cavity|earth]]'s.
 
 however, as mars' habitable conditions dwindled 4 billion years ago, so did the cavity's, and all life in the cavity went extinct. the nests, idk what to call an extra layer in the nest caves and another one, all dried up. 
 

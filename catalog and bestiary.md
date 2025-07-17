@@ -51,6 +51,7 @@ adamantite (Ad)
 4. orragins
 5. arros
 6. allies
+7. verted-ally
 - ***-- SAPIENT --***
 1. humans
 2. coronian

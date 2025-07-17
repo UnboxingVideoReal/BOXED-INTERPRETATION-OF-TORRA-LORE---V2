@@ -1,5 +1,7 @@
 - the reality fractal is the entire world, including [[godspace]]. it goes like:
-	- courtyard
+	- chronocaelea
+	- encephalospatium
+	- oneiropsychospace
 	- myserios
 	- intercept
 	- verted

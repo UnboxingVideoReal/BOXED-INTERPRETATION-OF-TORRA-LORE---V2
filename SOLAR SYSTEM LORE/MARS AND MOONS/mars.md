@@ -1,11 +1,11 @@
 ![[mars.png]]
 *every pixel in the planet is 32.90776699 km*
 
-next planet: [[apollo]]
+next planet: [[apollo]], [[artemis]], [[asteroid belt]]
 previous planet: [[earth]]
 
 ---
-
+infected with [[Blackened Roots#Interstellar Blackened Roots|Interstellar Blackened Roots]]
 
 layers:
 - [[the surface (mars)|the surface]]
