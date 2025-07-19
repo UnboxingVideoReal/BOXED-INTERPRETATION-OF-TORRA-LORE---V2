@@ -24,4 +24,6 @@ layers:
 	- [[NEW MOON 4]]
 	- [[NEW MOON 5]]
 
+orbiting bodies: [[phobos]], [[deimos]]
+
 #geography
