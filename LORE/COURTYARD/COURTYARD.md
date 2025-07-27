@@ -23,6 +23,7 @@ members:
 - [[gunga]]
 - [[izzy]]
 - [[karve]]
+- [[pastry]]
 - [[purple]]
 - [[silly]]
 - [[speedy]]
@@ -53,7 +54,7 @@ EXILED:
 
 # GALLERY
 ![[Pasted image 20250716204354.png]]
-[[The Isles of Aslysmic]] in [[ASLYSMIC]]
+[[The Isles of Aslysmic]] in the [[ASLYSMICSCAPE]]
 ![[precipice (2).png]]
 winter pfp - The Precipice
 ![[courtyard.png]]

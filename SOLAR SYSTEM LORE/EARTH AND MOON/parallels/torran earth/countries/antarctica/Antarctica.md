@@ -35,14 +35,14 @@ Now that the Wawaqs know about the Europeans, they are eager to get closer to th
 
 ![[wawatu kuttu, cry, arquq.png]]
 first flag of Cry, also used for the Wawat Kuttu and now used for the city of Arquq.
-## Antarctic Gold Rush
+## Antarctic Mythril Rush
 For years since, trading between Wawaqs and the rest of the world was done with caution. They did not want to destroy populations like they did in the 1400s, so to limit the spread of foreign diseases, they would quarantine themselves after trading and wore lots of clothing and barely made physical contact. 
 
 Along with trading, many Wawaqs were also leaving Antarctica, either being forcefully taken as slaves, or willingly getting on ships. Many left to Europe yeayeayeyeayea
 
-France made a colony near the Transantarctic Mountains but near the coast. It was struggling, and there were many deaths. It was met with heavy pushback from the people nearby, but soon, in 1842, the French made a huge discovery - there was a lot of gold near the Transantarctic Mountains. The Wawaqs were trying to hide this from everyone else to avoid it being taken away from them. 
+France made a colony near the Transantarctic Mountains but near the coast. It was struggling, and there were many deaths. It was met with heavy pushback from the people nearby, but soon, in 1842, the French made a huge discovery - there was a lot of [[mythril]] near the Transantarctic Mountains, a new mineral to the Europeans. The Wawaqs were trying to hide this from everyone else to avoid it being taken away from them. 
 
-France however didn’t bring lots of gold, however brought with them the knowledge of gold in Antarctica. Britain, Spain, Portugal, Germany, Rome, Russia, and the U.S. all tried to establish colonies in Antarctica, but were all met with very strong force by the people, and the strong force of the winds and the cold. Almost all the colonies failed or lasted very shortly, and very little profit was made.
+France however didn’t bring lots of mythril, however brought with them the knowledge of mythril in Antarctica. Britain, Spain, Portugal, Germany, Rome, Russia, and the U.S. all tried to establish colonies in Antarctica, but were all met with very strong force by the people, and the strong force of the winds and the cold. Almost all the colonies failed or lasted very shortly, and very little profit was made.
 
 After decades of failed colonization, most colonial powers already gave up. The ones that remained were France, Rome, and Britain. But those soon gave up too. In 1877, the Antarctic Withdrawal Treaty was signed between all colonial powers and Cry, which ordered for the withdrawal of all foreign powers in the continent and declared Antarctica its own country.
 ## ww1 and ww2 amd stuff like that

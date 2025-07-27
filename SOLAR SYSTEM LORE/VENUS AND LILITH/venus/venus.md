@@ -1,4 +1,4 @@
-
+![[venus.png]]
 previous planet: [[mercury]]
 next planet: [[earth]]
 
