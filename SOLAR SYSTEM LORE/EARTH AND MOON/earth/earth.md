@@ -1,4 +1,4 @@
-![[SOLAR SYSTEM LORE/EARTH AND MOON/earth.png]]
+![[SOLAR SYSTEM LORE/EARTH AND MOON/parallels/torran earth/countries/north america/images/earth.png]]
 next planet: [[mars]]
 previous planet: [[venus]]
 

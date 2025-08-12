@@ -1,19 +1,30 @@
+very wip
 # 3rd millenium in space
-1945-1990 - cold war, few discoveries in astronomy 
+1945-1990 - [[Cold War|cold war]], few discoveries in astronomy 
 
 
-1990-2026 - more discoveries but no [[Cold War|cold war]]
+1990-2026 - more discoveries but not cold war level
 
 
 2026-? - [[World War III|ww3]], little discoveries
 
+?-2060 - pre-space race, some discoveries and stuff between a few countries
 
-2100-2200 maybe a few decades before - [[moon]] and technology up to like irl rn. they also discover theres weird readings below the surface and then more readings of the moon reveal the same weird readings and they find large caves 
+2060-2200 - space race. [[moon]] and technology up to like irl rn by the 2120s. they also discover theres weird readings below the surface and then more readings of the moon reveal the same weird readings and they find large caves. they also discover the [[lower ocean]] and try to explore it
 
-at first its peaceful the discovery cause they dont know the power of [[cosmilite*|the purple ore]], but once its used in rockets and other things as fuel and stuff other countries start to panic and wanna start to take over the moon so they start improving too
+at first its peaceful the discovery cause they dont know about [[selenium]], but once its found and used in rockets and other things as fuel and stuff they get rich and other countries start to panic and wanna start to take over the moon so they start improving too and sending rockets tjhere and focusing on making mining bases.
 
-also by the end they discover [[minerva]]
+however, there is no outer space treaty. countries start claiming parts of space and parts of the moon for their bases.
 
+a country starts sending probes to venus and mars cause maybe they have stuff and especially selenium and they come with new data: theres people there but the readings are weird so theyre not 100% sure. 
+
+the probes dont land on a populated area but they land on a place to get pictures, so no venus ppl are alerted. however years later a manned expedition to venus is made with the intention of determining whether people exist or not and when they get past the atmosphere, they can see some cities so they land on the closest one 
+
+however the venus ppl had their own theories of aliens, they knew of the earths existence and that it was green, and they developed plans for what to do when aliens come. so, they are prepared but still scared of the humans. the humans are stressed because of the intense heat, however they are impressed at how the venus ppl can survive and advance in these conditions. they trade and eventually come back with good loot
+
+also by the end they discover [[minerva]] i think
+
+EVERYTHING BEYOND THIS POINT IS OLD AND IM STILL WORKING ON IT:
 
 2200-? - wars in space over territory and the moon. more landings on the moon and bases established on the moon, mining and stuff
 

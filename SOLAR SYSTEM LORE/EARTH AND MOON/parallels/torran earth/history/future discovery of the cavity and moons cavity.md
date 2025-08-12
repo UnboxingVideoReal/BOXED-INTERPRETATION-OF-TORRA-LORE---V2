@@ -21,7 +21,7 @@ they find out wtf? its kinda hollow
 its also infected
 and theres GIANT caves
 like so big it would look like the sky if the lighting were to be earths
-and its filled with this [[cosmilite*|new space fuel thing]]
+and its filled with this [[selenium|new space fuel thing]]
 but they dont know that yet they just know its shiny
 and everywhere..
 caves so big but theres not many entrances on the surface

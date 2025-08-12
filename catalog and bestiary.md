@@ -8,13 +8,16 @@ table of contents:
 7. [[#concepts]]
 
 # minerals ores and compounds
-1. [[#cosmilite*]]
+1. [[#selenium]]
 2. [[#mythril]]
-3. zorranium
-4. dorranium
+3. [[#adamantite]]
+4. [[#orichalcum]]
+5. venusium
+6. zorranium
+7. dorranium
 
-## [[cosmilite*]]
-cosmilite* (Cy) is a chemical element found in infected planets, and is used to power spaceships and can be used as iron
+## [[selenium]]
+selenium (Sy) is a chemical element found in infected planets, and is used to power spaceships and can be used as iron
 
 it glows dark blue and dark purple when forged into an ingot, however raw its bright purple.
 in its liquid form, it is purple-blue when refined but bright purple when raw.
