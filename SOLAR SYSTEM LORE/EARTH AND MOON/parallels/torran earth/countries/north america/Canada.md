@@ -33,12 +33,12 @@ It occupies part of northern Japan.
 
 It is the wealthiest country in the world, and is one of the worlds superpowers, ahead of both the French Empire, British Empire, Roman Empire, and the Confederacy. Canada leads the Free World, along with most European and North American countries, Antarctica and the Ace Realms.
 
-Its land borders [[Québec]], [[United States of America]] (commonly referred to as the Union), [[Confederate States of America|Confederate]] occupied territories in the Union, and [[Republic of Texas|Texan]] occupied territory in the Union. On the sea, it borders the [[Hawaiian Kingdom]], the [[French Empire]], Quebec, the Union, [[Greenland]], Texan occupied territory in the Union, and the [[Japanese Empire]] (mainly Confederate occupied territory)
+Its land borders [[Québec]], [[United States of America]] (commonly referred to as the Union), [[United Mexican States|Mexico]], and [[Greenland]], [[Confederate States of America|Confederate]] occupied territories in the Union, and [[Republic of Texas|Texan]] occupied territory in the Union. On the sea, it borders the [[Hawaiian Kingdom]], the [[French Empire]], Quebec, the Union, Texan occupied territory in the Union, and the [[Japanese Empire]] (mainly Confederate occupied territory)
 
-![[Pasted image 20250809224654.png]]
-![[Pasted image 20250809225234.png]]
+![[Pasted image 20250817224341.png]]
+![[Pasted image 20250817224347.png]]
 map
-![[Pasted image 20250809225026.png]]
+![[Pasted image 20250817210147.png]]
 map after the creation of dakota and expansion of provinces
 
 # Statistics
@@ -48,7 +48,8 @@ GDP: 56.4 trillion, CSD$62.1 trillion
 GDP per capita: ~141,000, CSD$155,250
 Area: ~15,500 pixels - ~12,495,818 km²
 Water area: ~26,751 pixels - ~21,566,169 km²
-Official languages: English, French
+Official languages: English
+Largely spoken languages, in order: English, Spanish, French
 Capital: Ottawa, Ontario
 
 ![[canadian dollar.png]]
