@@ -7,6 +7,9 @@ brown - vent mountains
 blue - crystal forest
 white - desert
 
+![[Pasted image 20250909184823.png]]
+old ver
+
 ## biomes
 ### ice tree forest thing
 ![[Pasted image 20250708223340.png]]
@@ -19,7 +22,7 @@ theres like geothermal vents in mountains
 ### giant long interconnected cave systems
 yea and theyre warm
 ### antarctic tundra
-![[Pasted image 20250708223321.png]][[]]
+![[Pasted image 20250708223321.png]]
 like the one irl its not much but theres more grass and more plants and stuff and actual animals theres more animals everywhere and you can actually live in it and theres actual trees and stuff yea
 ### desert
 yea
